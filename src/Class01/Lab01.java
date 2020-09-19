@@ -29,14 +29,17 @@ public class Lab01 {
         System.out.println("Initial of my name is " + initalOfMyName1+initalOfMyName2);
 
       String myName = "Mohammad Jakaria";
-        System.out.println("My Name is " + myName);
-
-
-
-
+        System.out.println("My  Name is " +
+                myName);
 
 
     }
 
 }
+
+
+
+
+
+
 
